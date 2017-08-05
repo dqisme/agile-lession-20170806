@@ -2,6 +2,12 @@
 
 This is a demo for an agile lession.
 
+## Get Started
+
+```shell
+gradle bootRun
+```
+
 ## Build
 
 ```shell
