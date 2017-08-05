@@ -8,6 +8,8 @@ This is a demo for an agile lession.
 gradle bootRun
 ```
 
+You will visit this demo on `http://localhost:8080`
+
 ## Build
 
 ```shell
